@@ -1,0 +1,5 @@
+# Claude Code local settings (contains API keys)
+.claude/
+
+# Real profiles file (contains API key — example template is api-profiles.example.json)
+api-profiles.json
